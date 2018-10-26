@@ -1,3 +1,3 @@
 <?php
-echo "Apa Kabarr";
+echo "Apa Kabar";
 ?>
